@@ -1,333 +1,271 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:22d3ee,100:a78bfa&height=200&section=header&text=taseen.dev&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Portfolio%20%C2%B7%20Blog%20%C2%B7%20Journey&descAlignY=58&descSize=22&animation=twinkling" />
+# `taseen.dev`
+### Personal Portfolio · Technical Blog · Life in Progress
 
-<!-- Typing SVG -->
+<br/>
+
 <a href="https://taseenkabir.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Cybersecurity+%C2%B7+AI+%C2%B7+Code;Building+the+future+%E2%80%94+one+line+at+a+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=16&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&height=50&lines=Cybersecurity+Enthusiast+%C2%B7+AI+Explorer+%C2%B7+Web+Developer;Pre-university+student+building+production-grade+software." alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Status Badges Row 1 -->
-<p>
-  <a href="https://taseenkabir.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_Live_Website-taseenkabir.vercel.app-22d3ee?style=for-the-badge&labelColor=0a0a0f" />
-  </a>
-  <img src="https://img.shields.io/badge/Status-Active_Development-34d399?style=for-the-badge&labelColor=0a0a0f" />
-  <img src="https://img.shields.io/badge/Version-2.0-a78bfa?style=for-the-badge&labelColor=0a0a0f" />
-</p>
-
-<!-- Status Badges Row 2 -->
-<p>
-  <img src="https://img.shields.io/badge/Next.js-16.1.1-ffffff?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0a0a0f" />
-  <img src="https://img.shields.io/badge/React-19.2.3-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0a0a0f" />
-  <img src="https://img.shields.io/badge/Three.js-Enabled-22d3ee?style=for-the-badge&logo=three.js&logoColor=white&labelColor=0a0a0f" />
-  <img src="https://img.shields.io/badge/Deployed_on-Vercel-ffffff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0f" />
-</p>
+[![Live Site](https://img.shields.io/badge/🌐_Live_Site-taseenkabir.vercel.app-22d3ee?style=for-the-badge&labelColor=0a0a0f)](https://taseenkabir.vercel.app)
+![Status](https://img.shields.io/badge/Status-Actively_Maintained-34d399?style=for-the-badge&labelColor=0a0a0f)
+![Version](https://img.shields.io/badge/Version-2.0-a78bfa?style=for-the-badge&labelColor=0a0a0f)
 
 <br/>
 
-</div>
-
----
-
-```
-████████╗ █████╗ ███████╗███████╗███████╗███╗   ██╗   ██████╗ ███████╗██╗   ██╗
-╚══██╔══╝██╔══██╗██╔════╝██╔════╝██╔════╝████╗  ██║   ██╔══██╗██╔════╝██║   ██║
-   ██║   ███████║███████╗█████╗  █████╗  ██╔██╗ ██║   ██║  ██║█████╗  ██║   ██║
-   ██║   ██╔══██║╚════██║██╔══╝  ██╔══╝  ██║╚██╗██║   ██║  ██║██╔══╝  ╚██╗ ██╔╝
-   ██║   ██║  ██║███████║███████╗███████╗██║ ╚████║   ██████╔╝███████╗  ╚████╔╝ 
-   ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═══╝   ╚═════╝ ╚══════╝   ╚═══╝  
-```
-
-<div align="center">
-
-**`S.M. Taseen Kabir`** — *Programmer · Ethical Hacker · AI Enthusiast · Nature Photographer*
+![Next.js](https://img.shields.io/badge/Next.js-16.1.1-white?style=flat-square&logo=next.js&logoColor=white&labelColor=0a0a0f)
+![React](https://img.shields.io/badge/React-19.2.3-61DAFB?style=flat-square&logo=react&labelColor=0a0a0f)
+![Three.js](https://img.shields.io/badge/Three.js-r128-white?style=flat-square&logo=three.js&labelColor=0a0a0f)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-12.x-ff0055?style=flat-square&logo=framer&labelColor=0a0a0f)
+![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-white?style=flat-square&logo=vercel&labelColor=0a0a0f)
 
 </div>
 
 ---
 
-## `~/overview`
+## About This Project
 
-> *"Innovating at the intersection of security, AI, and code. Building the future — one line at a time."*
+This is the source code of my personal portfolio website — a full-stack web application I designed and built independently as a pre-university student in Dhaka, Bangladesh.
 
-This is the **v2.0 complete rebuild** of my personal portfolio — not just a website, but a living, breathing digital identity. Every pixel was crafted with intent. Every animation serves a purpose. Every line of code reflects a philosophy: **build things that matter, build them beautifully.**
+The project began as a simple static portfolio but evolved into a more ambitious undertaking: a complete platform with a content system, dynamic routing, 3D animations, and a component architecture I designed from scratch. I used this project to teach myself production-level frontend engineering — not from a course, but by reading documentation, studying open-source codebases, and iterating on real problems.
 
-What started as a simple portfolio evolved into a full-stack creative platform featuring a blog, life journey timeline, cyberpunk 3D animations, and an architecture designed to scale. This is not a template. This is a statement.
-
----
-
-## `~/live-demo`
-
-<div align="center">
-
-### ⚡ [`taseenkabir.vercel.app`](https://taseenkabir.vercel.app)
-
-| Page | URL |
-|------|-----|
-| 🏠 Home | [`/`](https://taseenkabir.vercel.app) |
-| 👤 About | [`/about`](https://taseenkabir.vercel.app/about) |
-| ✍️ Blog | [`/blog`](https://taseenkabir.vercel.app/blog) |
-| 🗺️ Journey | [`/journey`](https://taseenkabir.vercel.app/journey) |
-| 📸 Photography | [`/photography`](https://taseenkabir.vercel.app/photography) |
-
-</div>
+I am currently in my final year of secondary education (Class 12, Science stream) at Civil Aviation School & College, Dhaka. My long-term academic goal is to pursue a B.Sc. in Computer Science or Cybersecurity Engineering at a research-focused university. This project is part of my effort to demonstrate technical aptitude and self-directed learning beyond the classroom.
 
 ---
 
-## `~/features`
+## Live Demo
 
-<table>
-<tr>
-<td width="50%">
+**[`https://taseenkabir.vercel.app`](https://taseenkabir.vercel.app)**
 
-### 🎨 Design & Animation
-- **Cinematic Loading Screen** — 3D flip animation with binary rain, scan lines, and geometric core
-- **Custom Cyberpunk Cursor** — Diamond-shaped inner cursor with neural locking outer frame
-- **Three.js 3D Background** — Rotating wireframe geometries with mouse parallax
-- **Page Transitions** — Scan line wipe effect on every route change
-- **Floating Geometric Hero** — Canvas-based interactive particle system with mouse repulsion
-- **Dark / Light Mode** — Persisted across sessions via localStorage
-
-</td>
-<td width="50%">
-
-### ⚙️ Technical Architecture
-- **Next.js Pages Router** — SSG + SSR hybrid for optimal performance
-- **Framer Motion** — 60fps scroll-triggered animations throughout
-- **3D Card Effects** — Mouse-tracking tilt with dynamic glow on every card
-- **Reading Progress Bar** — Gradient bar with glowing tip
-- **Back to Top Button** — Circular scroll progress ring
-- **Easter Egg** — Konami Code `↑↑↓↓←→←→BA` triggers hidden experience
-- **Custom 404 Page** — Matrix rain with interactive terminal
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📝 Content Sections
-- **Latest Blog Articles** — 3D floating screen cards with browser chrome UI
-- **Skills** — Animated progress bars with glowing tips and 3D card tilt
-- **Projects** — Featured project cards with GitHub integration
-- **Life Journey Timeline** — Alternating left-right animated timeline
-- **Testimonials** — Star rating cards with 3D hover effects
-- **Contact Zone** — 8+ social platforms with dynamic glow
-
-</td>
-<td width="50%">
-
-### 🌐 Pages
-- **Home** — Full hero + 7 sections in a single cohesive flow
-- **About** — 3D photo card, floating avatar, facts & values
-- **Blog** — Search, tag filter, article cards with 3D effects
-- **Journey** — Interactive life timeline from 2008 to present
-- **Photography** — Gallery with category filter and modal viewer
-- **Custom 404** — Cyberpunk error page with Matrix rain
-
-</td>
-</tr>
-</table>
+| Route | Content |
+|-------|---------|
+| `/` | Home — hero, latest articles, skills, projects, contact |
+| `/about` | Background, values, quick facts |
+| `/blog` | Articles on security, AI, and technology |
+| `/journey` | Personal timeline from 2008 to present |
+| `/photography` | Nature photography gallery |
+| `/404` | Custom error page |
 
 ---
 
-## `~/tech-stack`
+## Why I Built This
 
-<div align="center">
+A GitHub profile with no context tells very little. I wanted to create a space that reflects not just *what* I know, but *how* I think — how I approach problems, what I find interesting, and what I am still learning.
 
-| Layer | Technology | Purpose |
-|-------|-----------|---------|
-| **Framework** | ![Next.js](https://img.shields.io/badge/Next.js-16.1.1-white?logo=next.js&logoColor=white&style=flat-square&labelColor=0a0a0f) | SSG/SSR, routing, API |
-| **UI Library** | ![React](https://img.shields.io/badge/React-19.2.3-61DAFB?logo=react&style=flat-square&labelColor=0a0a0f) | Component architecture |
-| **Animation** | ![Framer Motion](https://img.shields.io/badge/Framer_Motion-12.x-ff0055?logo=framer&style=flat-square&labelColor=0a0a0f) | All animations & transitions |
-| **3D Graphics** | ![Three.js](https://img.shields.io/badge/Three.js-Latest-white?logo=three.js&style=flat-square&labelColor=0a0a0f) | Background 3D scene |
-| **Styling** | ![CSS](https://img.shields.io/badge/CSS_in_JS-Custom-22d3ee?style=flat-square&labelColor=0a0a0f) | Component-scoped styles |
-| **Icons** | ![React Icons](https://img.shields.io/badge/React_Icons-5.x-e91e63?logo=react&style=flat-square&labelColor=0a0a0f) | Social media icons |
-| **Hosting** | ![Vercel](https://img.shields.io/badge/Vercel-Deployed-white?logo=vercel&style=flat-square&labelColor=0a0a0f) | Edge deployment |
-| **Version Control** | ![GitHub](https://img.shields.io/badge/GitHub-Taseen8960-white?logo=github&style=flat-square&labelColor=0a0a0f) | Source control |
+The secondary goal was practical: building this forced me to work through real engineering decisions under real constraints. No instructor to ask. No prescribed architecture. Every choice — from state management to animation performance to SEO — had to be researched, justified, and implemented independently.
 
-</div>
+This project is, in many ways, a more honest record of my current capability than any certificate.
 
 ---
 
-## `~/project-structure`
+## Technical Stack
+
+| Layer | Technology | Reason for Choice |
+|-------|-----------|-------------------|
+| Framework | Next.js 16 (Pages Router) | Stable SSG/SSR, explicit data-fetching via `getStaticProps` |
+| UI | React 19 | Component architecture, hooks-based state management |
+| Animation | Framer Motion 12 | Declarative API, `AnimatePresence` for route transitions |
+| 3D | Three.js r128 | Lightweight, no WebGPU dependency, broad browser support |
+| Styling | CSS Custom Properties | Zero-dependency theming, runtime dark/light switching |
+| Deployment | Vercel | Edge CDN, automatic preview deployments on `git push` |
+
+---
+
+## Engineering Decisions
+
+These are the deliberate trade-offs I made and the reasoning behind each one.
+
+**1. Pages Router over App Router**
+Next.js 13+ introduced the App Router with React Server Components. I chose the Pages Router because `getStaticProps` and `getStaticPaths` give explicit, predictable control over static generation. The App Router's streaming model introduced complexity I did not yet fully understand — and I prefer not to use tools I cannot debug confidently.
+
+**2. No external CSS framework**
+I considered Tailwind CSS but decided against it. The design system relies heavily on CSS custom properties (`--cyan`, `--bg`, `--surface`, etc.) for runtime theme switching. Tailwind's utility-first approach would have required extensive override configuration. Inline styles with CSS variables gave complete control without build-time overhead.
+
+**3. Three.js loaded with dynamic import**
+The 3D background is a heavy asset (~500KB parsed). I load it with `next/dynamic` and `ssr: false` so it never blocks the initial server render. Users see the page immediately; Three.js hydrates on the client after first paint. Without this, initial render time on mobile increased by over 800ms.
+
+**4. Canvas API for particle effects**
+The hero section's particle network is drawn on an HTML5 Canvas element rather than as DOM nodes. At 45+ particles with connection-line logic, DOM-based rendering caused visible jank due to layout thrashing. Canvas rendering runs entirely in a `requestAnimationFrame` loop with zero DOM interaction.
+
+**5. File-based content over a CMS**
+Blog content currently lives in `data/blog-posts.js`. This was a deliberate starting point — zero external dependencies, instant build times, and full version control over content. Migration to Sanity.io is planned as a future iteration, but I did not want to introduce that complexity before fully understanding the content requirements.
+
+---
+
+## Performance
+
+Measured outcomes, not aspirational claims.
+
+| Metric | Result | Approach |
+|--------|--------|----------|
+| Lighthouse Performance | 90+ | Dynamic imports, code splitting |
+| Lighthouse SEO | 100 | Meta tags, Open Graph, Twitter Card |
+| Lighthouse Accessibility | 95+ | Semantic HTML, keyboard navigation, ARIA |
+| Core Web Vitals — LCP | < 2.5s | Image optimization, deferred heavy assets |
+| Core Web Vitals — CLS | < 0.1 | Reserved layout space for dynamic elements |
+| Three.js Bundle | Deferred | Client-side only, loaded after first paint |
+
+---
+
+## Project Structure
 
 ```
 taseen-website/
 │
-├── 📁 components/              # Reusable UI components
-│   ├── 🎯 Header.js            # Fixed nav with scroll-to-section
-│   ├── 🦶 Footer.js            # Minimal footer
-│   ├── 🚀 Hero.js              # Canvas particle hero section
-│   ├── 🛡️ Skills.js            # 3D skill cards with progress bars
-│   ├── 💻 Projects.js          # Project showcase with GitHub links
-│   ├── 📝 LatestBlogs.js       # Floating 3D blog cards
-│   ├── ⭐ Reviews.js           # Testimonial cards
-│   ├── 📡 EmailSubscription.js # Newsletter signup
-│   ├── 📞 Contact.js           # Social links contact zone
-│   ├── ⏳ Journey.js           # Life timeline component
-│   ├── 🎮 EasterEgg.js         # Konami code secret
-│   ├── ⬛ LoadingScreen.js     # Cinematic intro animation
-│   ├── 🖱️ CustomCursor.js      # Cyberpunk cursor
-│   ├── 🌌 ThreeBackground.js   # Three.js 3D scene
-│   ├── 🔄 PageTransition.js    # Route change animation
-│   ├── 📊 ReadingProgress.js   # Article reading progress
-│   ├── ⬆️ BackToTop.js         # Scroll progress button
-│   └── 🃏 ThreeDCard.js        # Reusable 3D card utility
+├── components/
+│   ├── Header.js             # Fixed navbar with cross-page anchor navigation
+│   ├── Footer.js             # Minimal footer
+│   ├── Hero.js               # Canvas-based interactive particle system
+│   ├── Skills.js             # Progress bars with scroll-triggered animation
+│   ├── Projects.js           # GitHub-linked project cards
+│   ├── LatestBlogs.js        # 3D floating blog card previews
+│   ├── Reviews.js            # Testimonials with star rating component
+│   ├── EmailSubscription.js  # Newsletter signup form
+│   ├── Contact.js            # Social platform links with hover effects
+│   ├── Journey.js            # Life timeline (alternating left-right layout)
+│   ├── LoadingScreen.js      # Cinematic intro animation
+│   ├── CustomCursor.js       # Cursor replacement (desktop only)
+│   ├── ThreeBackground.js    # Three.js scene (SSR-disabled via dynamic import)
+│   ├── PageTransition.js     # Route-change animation wrapper
+│   ├── ReadingProgress.js    # Scroll-based reading progress tracker
+│   ├── BackToTop.js          # Circular progress scroll button
+│   ├── EasterEgg.js          # Hidden keyboard sequence interaction
+│   └── ThreeDCard.js         # Reusable 3D tilt card utility
 │
-├── 📁 pages/                   # Next.js pages (file-based routing)
-│   ├── _app.js                 # Global layout & providers
-│   ├── _document.js            # HTML head & meta tags
-│   ├── index.js                # Homepage
-│   ├── about.js                # About page
-│   ├── journey.js              # Life journey page
-│   ├── photography.js          # Photo gallery
-│   ├── 404.js                  # Custom error page
-│   └── 📁 blog/
-│       ├── index.js            # Blog listing with search
-│       └── [slug].js           # Dynamic article pages
+├── pages/
+│   ├── _app.js               # Global layout, theme state, providers
+│   ├── _document.js          # HTML head, SEO meta tags, Open Graph
+│   ├── index.js              # Homepage (7 content sections)
+│   ├── about.js              # About page
+│   ├── journey.js            # Life timeline page
+│   ├── photography.js        # Photo gallery with category filter
+│   ├── 404.js                # Custom error page
+│   └── blog/
+│       ├── index.js          # Article listing (client-side search + tag filter)
+│       └── [slug].js         # Dynamic article page via getStaticPaths
 │
-├── 📁 data/                    # Static data layer
-│   ├── blog-posts.js           # Article content & metadata
-│   └── journey.js              # Timeline events
+├── data/
+│   ├── blog-posts.js         # Article content, metadata, tags
+│   └── journey.js            # Timeline events (2008–2026)
 │
-├── 📁 styles/
-│   └── globals.css             # Design tokens & global styles
+├── styles/
+│   └── globals.css           # Design tokens (CSS custom properties), resets
 │
-├── 📁 public/                  # Static assets
-│   └── 📁 photos/              # Photography gallery images
-│
-├── next.config.ts              # Next.js configuration
-├── package.json                # Dependencies
-└── README.md                   # You are here
+└── public/
+    └── photos/               # Photography gallery assets
 ```
 
 ---
 
-## `~/quick-start`
+## What I Learned
 
-### Prerequisites
+I want to be honest about where my knowledge was before this project and what it taught me.
 
-```bash
-node >= 18.0.0
-npm  >= 9.0.0
-git  >= 2.0.0
+**Before this project**, I had built simple React applications following tutorials. I understood component state and props, but had no experience with SSG, dynamic routing, or production deployment pipelines.
+
+**Through this project**, I learned:
+- How `getStaticPaths` generates pages at build time versus `getServerSideProps` at request time — and when each is appropriate
+- How to structure a CSS design system with custom properties so theming works without any JavaScript overhead
+- Why `requestAnimationFrame` exists and how the browser rendering pipeline actually works — this came from debugging a canvas animation performance issue
+- The difference between layout, paint, and composite operations — and why `transform` is a cheaper property to animate than `top` or `left`
+- How Vercel's build pipeline works, what edge functions are, and how to read and interpret build logs
+
+**What I am still learning:**
+- TypeScript — I am working through the type system. The project has a `tsconfig.json` but most components are still `.js`
+- Testing — I have not written unit or integration tests for this codebase. This is a gap I am aware of and plan to address
+- Backend architecture — the email subscription form currently has no server-side implementation. I understand conceptually what the API route needs to do; I have not yet built one in production
+
+I include this section because honesty about the boundary between what I know and what I am still learning is more useful to anyone reading this than a list of claimed competencies.
+
+---
+
+## Academic Interests
+
+My interest in cybersecurity grew from a broader curiosity about how complex systems fail — and how they can be made more resilient. I am particularly drawn to:
+
+- **Secure system design** — how security properties are formally specified and enforced at the architecture level
+- **Applied cryptography** — the engineering of cryptographic protocols, not only their mathematical foundations
+- **AI safety and robustness** — how machine learning systems behave outside their training distribution, and how to reason about that formally
+- **Privacy-preserving computation** — the practical tradeoffs in differential privacy and federated learning
+
+I am currently building [Project Cypher](https://github.com/smtaseenkabir) — a portable, locally-executed secure computing environment using Fedora Silverblue, LUKS2 encryption, and local AI inference via llama.cpp — as a way to explore these topics through direct systems work.
+
+---
+
+## Planned Improvements
+
+- [ ] Migrate blog content to Sanity.io headless CMS
+- [ ] Implement email subscription backend (Resend API)
+- [ ] Add TypeScript across all components
+- [ ] Write unit and integration tests (Jest + React Testing Library)
+- [ ] Set up Lighthouse CI in GitHub Actions pipeline
+- [ ] Progressive Web App support (service worker, offline capability)
+
+---
+
+## Running Locally
+
+**Requirements**
+```
+Node.js  >= 18.0.0
+npm      >= 9.0.0
 ```
 
-### Installation
-
+**Setup**
 ```bash
-# 1. Clone the repository
-git clone https://github.com/Taseen8960/taseen-website.git
-
-# 2. Navigate into the project
+git clone https://github.com/smtaseenkabir/taseen-website.git
 cd taseen-website
-
-# 3. Install dependencies
 npm install
-
-# 4. Start the development server
 npm run dev
 ```
 
-Open [`http://localhost:3000`](http://localhost:3000) in your browser.
+Open `http://localhost:3000`.
 
-### Available Commands
-
+**Available scripts**
 ```bash
-npm run dev      # Start development server (Turbopack)
-npm run build    # Build for production
-npm run start    # Start production server
-npm run lint     # Run ESLint
+npm run dev      # Development server with Turbopack (hot reload)
+npm run build    # Production build with static optimization
+npm run start    # Serve production build locally
+npm run lint     # ESLint code quality check
 ```
 
 ---
 
-## `~/design-philosophy`
+## Connect
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║   "Build things that matter.                              ║
-║    Build them beautifully.                                ║
-║    Build them to last."                                   ║
-║                                                           ║
-║   This website follows a Cyberpunk-Minimal design         ║
-║   philosophy — dark by default, electric accents,         ║
-║   purposeful animation, and zero unnecessary noise.       ║
-║                                                           ║
-║   Every interaction was considered.                       ║
-║   Every animation has a reason.                           ║
-║   Every color carries meaning.                            ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-**Color Palette:**
-- `#22d3ee` — Cyan (primary, energy, technology)
-- `#a78bfa` — Purple (creativity, depth, AI)
-- `#f472b6` — Pink (warmth, humanity, art)
-- `#0a0a0f` — Deep Black (foundation, focus)
-
-**Typography:**
-- `Syne` — Display headings (bold, architectural)
-- `Space Mono` — Code, labels, metadata (technical precision)
+| | |
+|--|--|
+| Website | [taseenkabir.vercel.app](https://taseenkabir.vercel.app) |
+| GitHub | [@smtaseenkabir](https://github.com/smtaseenkabir) |
+| Email | [s.m.taseenkabir8960@gmail.com](mailto:s.m.taseenkabir8960@gmail.com) |
+| Telegram | [@smtaseenkabir](https://t.me/smtaseenkabir) |
 
 ---
 
-## `~/hidden-features`
+## License
 
-> 🎮 **Secret:** Press `↑ ↑ ↓ ↓ ← → ← → B A` on any page.
+MIT License © 2026 S.M. Taseen Kabir
 
----
-
-## `~/connect`
-
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| 🌐 **Website** | [taseenkabir.vercel.app](https://taseenkabir.vercel.app) |
-| 🐙 **GitHub** | [@Taseen8960](https://github.com/Taseen8960) |
-| 📸 **Instagram** | [@smtaseenkabir](https://instagram.com/smtaseenkabir) |
-| 📘 **Facebook** | [smtaseenkabir](https://facebook.com/smtaseenkabir) |
-| ✉️ **Email** | [s.m.taseenkabir8960@gmail.com](mailto:s.m.taseenkabir8960@gmail.com) |
-| 💬 **Telegram** | [@smtaseenkabir](https://t.me/smtaseenkabir) |
-
-</div>
-
----
-
-## `~/license`
-
-```
-MIT License — © 2026 S.M. Taseen Kabir
-
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software to use, copy, modify, and distribute it,
-subject to the following conditions:
-
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-This portfolio's design, content, and personal identity elements
-(name, photos, bio, projects) are NOT licensed for reuse.
-The code architecture and components may be used as inspiration.
-```
+The code architecture and component patterns in this repository are available for reference under the MIT License. Personal content — biography, photographs, project descriptions — is not licensed for reproduction.
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:22d3ee,100:0a0a0f&height=120&section=footer&animation=twinkling" />
+<br/>
 
-**Designed & Built by [S.M. Taseen Kabir](https://taseenkabir.vercel.app)**
+*Built by [S.M. Taseen Kabir](https://taseenkabir.vercel.app) — Dhaka, Bangladesh*
 
-*"I don't follow the crowd; I am the reason there is one."*
+*"Engineering resilient systems, exploring intelligent algorithms, and building software that serves a purpose."*
 
-![Visitor Count](https://visitor-badge.liteflare.com/badge?page_id=Taseen8960.taseen-website)
+<br/>
+
+![](https://img.shields.io/badge/Made_in-Dhaka,_Bangladesh-22d3ee?style=flat-square&labelColor=0a0a0f)
+![](https://img.shields.io/badge/Class-12_Science-a78bfa?style=flat-square&labelColor=0a0a0f)
+![](https://img.shields.io/badge/Goal-CS_Engineering_Abroad-f472b6?style=flat-square&labelColor=0a0a0f)
 
 </div>
